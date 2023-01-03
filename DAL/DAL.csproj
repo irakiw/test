@@ -9,11 +9,5 @@
   <ItemGroup>
     <PackageReference Include="Microsoft.EntityFrameworkCore" Version="7.0.1" />
   </ItemGroup>
-
-  <ItemGroup>
-    <Folder Include="Repositories\Impl\" />
-    <Folder Include="UnitOfWork\" />
-    <Folder Include="EF\" />
-  </ItemGroup>
-
+	
 </Project>
